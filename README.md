@@ -8,7 +8,7 @@
 - to Make Case for Parametric Speaker by TriState  
 - for Speaker Unit and AMP Unit.  
   
-	[Parametric Speaker (Single-directional Speaker) Test Kit](http://www.tristate.ne.jp/parame.htm)  
+	[Parametric Speaker (Single-directional Speaker) Test Kit (TriState)](http://www.tristate.ne.jp/parame.htm)  
 
 
 
