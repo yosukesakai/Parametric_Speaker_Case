@@ -1,7 +1,8 @@
 #Parametric Speaker Case
-
+supported by [FabLab Yamaguchi](http://fablabyamaguchi.com/) 
 
 <img src="pics/pmsp00.jpg" width="500">  
+
 
 ###Goal:  
 
