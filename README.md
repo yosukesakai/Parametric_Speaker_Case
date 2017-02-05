@@ -15,18 +15,28 @@
 ###How to Make:  
   
 - download stl files and print them.    
+  
 <img src="pics/pmsp01.jpg" width="500">  
   
 - put AMP Unit and screw with M3x8 screw.   
+  
 <img src="pics/pmsp02.jpg" width="500">    
+  
 <img src="pics/pmsp03.jpg" width="500">    
+  
 - put Speaker Unit and screw with M3x8 screw.  
+  
 <img src="pics/pmsp04.jpg" width="500">   
+  
 - put 1/4 nut on Speaker Case for tripod (depends).    
+  
 <img src="pics/pmsp05.jpg" width="500">   
+  
 - finish!!  
+  
 <img src="pics/pmsp06.jpg" width="500">  
-
+  
+  
 
 
 ###Licenses and Credits  
